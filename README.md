@@ -34,6 +34,7 @@
 - **[Paper 2]** *Nonlinear Computational Dynamics in the Training of Intelligent Models* – [[Read here]](https://github.com/theia-squareone/Nonlinear-Training-Dynamics)
 - **[Paper 3]** *The Architecture of Intelligence as an Organizational Layer* – [[Read here]](https://github.com/theia-squareone/Intelligence-Architecture-Layer)
 - **[Paper 4]** *Memory as an Architectural Mechanism of Semantic Continuity* – [[Read here]](https://github.com/theia-squareone/Memory-Semantic-Continuity)
+- **[Paper 5]** *Control, Regimes, and the Restoration of Stability* – [[Read here]](https://github.com/theia-squareone/Control-Restoration-Stability)
 
 ---
 
