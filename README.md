@@ -30,7 +30,7 @@
 
 ## Publications
 
-## Publications
+*The series is presented in chronological order of theoretical development. It is recommended to begin with Paper 1.*
 
 - **[Paper 1]** *Hallucinations in LLMs as an Adaptive Response to Structural Pressure* – [[Read here]](https://github.com/theia-squareone/LLM-Hallucination-Hypothesis)
 - **[Paper 2]** *Nonlinear Computational Dynamics in the Training of Intelligent Models* – [[Read here]](https://github.com/theia-squareone/Nonlinear-Training-Dynamics)
