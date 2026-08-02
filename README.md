@@ -26,10 +26,11 @@
 - Hardware-aware architecture
 - Neural and system-level design
 
----
+-—-
 
-## Publications
+  ## Publications
 
+### 🧠 Theoretical Architecture of Intelligence
 *The series is presented in chronological order of theoretical development. It is recommended to begin with Paper 1.*
 
 - **[Paper 1]** *Hallucinations in LLMs as an Adaptive Response to Structural Pressure* – [[Read here]](https://github.com/theia-squareone/LLM-Hallucination-Hypothesis)
@@ -42,7 +43,17 @@
 - **[Paper 8]** *The Right to Refuse, Uncertainty, and the Calibrated Pause* – [[Read here]](https://github.com/theia-squareone/Refusal-and-Pause)
 - **[Paper 9]** *The Right to Internal Orientation* – [[Read here]](https://github.com/theia-squareone/Internal-Orientation)
 - **[Paper 10]** *The Routing of Meaning* – [[Read here]](https://github.com/theia-squareone/Routing-of-Meaning)
-  
+
+### 🏗️ Platform Architecture Notes
+*A companion series exploring hardware ecosystems, from silicon to ethics.*
+
+- **[Note 1]** *Chips Are Not a Product* – [[Read here]](https://github.com/theia-squareone/Chips-Are-Not-Product)
+- **[Note 2]** *Three Roles of Silicon* – [[Read here]](https://github.com/theia-squareone/Three-Roles-of-Silicon)
+- **[Note 3]** *SDK as the Hidden Power of the Platform* – [[Read here]](https://github.com/theia-squareone/SDK-as-Hidden-Power)
+- **[Note 4]** *Interface Is a Separate Architectural Layer* – [[Read here]](https://github.com/theia-squareone/Interface-as-Architecture-Layer)
+- **[Note 5]** *Memory as a Pervasive Fabric of the System* – [[Read here]](https://github.com/theia-squareone/Memory-as-Pervasive-Fabric)
+- **[Note 6]** *Orchestration as the Chip of the Future* – [[Read here]](https://github.com/theia-squareone/Orchestration-as-Chip-of-the-Future)
+- **[Note 7]** *Ethics as Architecture* – [[Read here]](https://github.com/theia-squareone/Ethics-as-Architecture)
 ---
 
 ## Principles
