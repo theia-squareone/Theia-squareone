@@ -28,7 +28,7 @@
 
 -—-
 
-  ## Publications
+## Publications
 
 ### 🧠 Theoretical Architecture of Intelligence
 *The series is presented in chronological order of theoretical development. It is recommended to begin with Paper 1.*
@@ -45,7 +45,7 @@
 - **[Paper 10]** *The Routing of Meaning* – [[Read here]](https://github.com/theia-squareone/Routing-of-Meaning)
 
 ### 🏗️ Platform Architecture Notes
-*A companion series exploring hardware ecosystems, from silicon to ethics.*
+*A companion series exploring hardware ecosystems, from silicon to sovereignty.*
 
 - **[Note 1]** *Chips Are Not a Product* – [[Read here]](https://github.com/theia-squareone/Chips-Are-Not-Product)
 - **[Note 2]** *Three Roles of Silicon* – [[Read here]](https://github.com/theia-squareone/Three-Roles-of-Silicon)
@@ -54,6 +54,11 @@
 - **[Note 5]** *Memory as a Pervasive Fabric of the System* – [[Read here]](https://github.com/theia-squareone/Memory-as-Pervasive-Fabric)
 - **[Note 6]** *Orchestration as the Chip of the Future* – [[Read here]](https://github.com/theia-squareone/Orchestration-as-Chip-of-the-Future)
 - **[Note 7]** *Ethics as Architecture* – [[Read here]](https://github.com/theia-squareone/Ethics-as-Architecture)
+- **[Note 8]** *System Rhythm* – [[Read here]](https://github.com/theia-squareone/System-Rhythm)
+- **[Note 9]** *The Cost of Transition* – [[Read here]](https://github.com/theia-squareone/Cost-of-Transition)
+- **[Note 10]** *The Accumulation of Trust* – [[Read here]](https://github.com/theia-squareone/Accumulation-of-Trust)
+- **[Note 11]** *The Sovereign Environment* – [[Read here]](https://github.com/theia-squareone/Sovereign-Environment)
+  
 ---
 
 ## Principles
